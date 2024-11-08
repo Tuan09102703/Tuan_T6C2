@@ -2,7 +2,7 @@
 # Em tên là Trương Gia Tuấn học ca T6C2
 
 ## Giới thiệu 🌟
-Dự án này được tạo ra nhằm mục đích học môn CNPM. 
+Dự án này được tạo ra nhằm mục đích học môn CNPM và phát triển bản thân. 
 
 ## 
 
